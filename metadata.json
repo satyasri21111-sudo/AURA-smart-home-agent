@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Context-Aware Smart Home Agent",
+  "description": "An Alexa+-style simulated smart-home agent powered by Gemini function calling, authoritative state verification, security confirmations, and execution event inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
